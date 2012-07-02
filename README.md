@@ -1,4 +1,4 @@
-A Maven repository for public projects maintained or supported by [jCoderZ](https://github.com/jCoderZ/public.maven.repository)
+A Maven repository for public projects maintained or supported by [jCoderZ](https://github.com/jCoderZ/)
 
 Repository params:
 
